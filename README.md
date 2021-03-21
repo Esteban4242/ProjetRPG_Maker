@@ -7,8 +7,8 @@ donc pour ce faire :</p>
 clic droit sur git bash
 sur l'invite de commande identifier vous donc:
 </br><em>git init</em>
-</br><em><em>git config --global user.name 'votrepseudo'</em>
-</br><em><em><em>git config --global user.mail 'votremail'</em>
+</br><em>git config --global user.name 'votrepseudo'</em>
+</br><em>git config --global user.mail 'votremail'</em>
 </br>
 <p>vous êtes identifer et bien vous pouvez récupérer les modifications des autres avec  
 <em>git pull</em></p>
