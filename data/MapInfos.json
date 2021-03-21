@@ -2,6 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Campagne","order":1,"parentId":0,"scrollX":812,"scrollY":897},
 {"id":2,"expanded":false,"name":"Maison","order":2,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"ville","order":3,"parentId":0,"scrollX":812,"scrollY":897},
-{"id":4,"expanded":false,"name":"Bar","order":4,"parentId":3,"scrollX":676,"scrollY":913}
+{"id":3,"expanded":true,"name":"ville","order":4,"parentId":0,"scrollX":812,"scrollY":897},
+{"id":4,"expanded":false,"name":"Bar","order":5,"parentId":3,"scrollX":676,"scrollY":913},
+{"id":5,"expanded":false,"name":"MAP005","order":3,"parentId":1,"scrollX":676,"scrollY":913}
 ]
